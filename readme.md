@@ -1,4 +1,4 @@
-![](https://github.com/sumatrapdfreader/sumatrapdf/workflows/Build/badge.svg)
+![](https://img.shields.io/appveyor/ci/tonystarkdo/sumatrapdf)
 
 ## SumatraPDF Reader
 
